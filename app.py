@@ -1,1 +1,1 @@
-print("fixed main to master !")
+rint("fixed main to master !")
